@@ -45,7 +45,7 @@
 
 ## Debugging issue which do not occcur on simulator, debug mode
 
- - creating a log file to determine what went down wrong
+ - creating a log file to determine what went wrong
 
 ## Debugging View Hierarchy
 
